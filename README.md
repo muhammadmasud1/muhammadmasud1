@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Masud Rana</h1>
 <h3 align="center">Innovative front-end coder creating captivating websites through a blend of art and technology</h3>
 
-  <img align="right" alt="code" width="400" src="https://github.com/muhammadmasud1/muhammadmasud1/blob/main/giphy.gif">
+  <img align="right" alt="code" width="400" src="https://github.com/muhammadmasud1/muhammadmasud1/blob/main/5TMy.gif">
+ <img align="buttom" alt="code" width="400" src="https://github.com/muhammadmasud1/muhammadmasud1/blob/main/giphy.gif">
 
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmasud1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmasud1" /> </p>
 
 - 🔭 Professional Facebook Design [Facebook Design](https://netbookbymasud.netlify.app/)
