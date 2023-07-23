@@ -56,3 +56,49 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmasud1&show_icons=true&locale=en" alt="muhammadmasud1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmasud1&" alt="muhammadmasud1" /></p>
+
+
+##  <img  alt="gif" src="https://media.tenor.com/8hukgvYze8MAAAAi/busy-bee-trophy.gif" width="80" height="auto" /> GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jonycmtt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ </br>
+
+
+
+<h2 tabindex="-1" dir="auto"><a id="" class="anchor" aria-hidden="true" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"><img style="background: transparent; max-width: 100%;" alt="gif" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="1000" height="auto"></a></h2>
+
+#### My Projects & Ventures
+   <table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b> For </b></td>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td><a href="https://chatapp-jx8l.onrender.com/" target="_blank">chat application</a></td>
+      <td>A university-specific chat application could be a great way to connect students and faculty. It could provide a platform for discussion, collaboration, and communication</td>
+      <td>University Porject </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arwithlpd/ats" target="_blank">Learner Programmer Developer</a></td>
+      <td>Programming related Learning Platform for Bangladesh</td>
+      <td> University Porject </td>
+    </tr>
+   <tr>
+      <td><a href="https://arwithlpd.netlify.app" target="_blank">Applicant tracking system</a></td>
+      <td>An applicant tracking system (ATS) is software for recruiters and employers to track candidates throughout the recruiting and hiring process.</td>
+      <td>Personal Development</td>
+    </tr>
+    <tr>
+      <td><a href="/" target="_blank">financial management system</a></td>
+      <td>financial management system is the software and processes used to manage income, expenses, and assets in an organization. In addition to supporting daily financial operations, the purpose of a financial management system is to maximize profits and ensure long-term enterprise sustainability</td>
+      <td> Personal Development</td>
+    </tr>
+  </tbody>
+</table>
+
+## <h2> <img  alt="gif" src="https://media.tenor.com/tkpOfRTT21UAAAAi/flexed-biceps-joypixels.gif" width="80" height="80" /> I'm Ready to Build Your Website...</h2>
+<img align="left"  alt="gif" src="https://media.tenor.com/sWYXySliYPQAAAAi/%E6%BA%96%E5%82%99-%E6%BA%96%E5%82%99%E4%B8%87%E7%AB%AF.gif" width="350" height="350" />
+<img align="right"  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/giphy.gif?raw=true" width="350" height="350" />
