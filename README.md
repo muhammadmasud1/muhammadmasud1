@@ -1,3 +1,8 @@
+<h3>👯 Be Aware be Safe...
+  <img align="right"  alt="gif" src="https://github.com/muhammadmasud1/muhammadmasud1/blob/main/welcome.gif" width="auto" height="60" />
+</h3>
+
+
 ![logo](https://github.com/muhammadmasud1/muhammadmasud1/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Masud Rana</h1>
@@ -19,14 +24,24 @@
 
 - 👨‍💻 All of my projects are available at [https://persona-website01.netlify.app/](https://persona-website01.netlify.app/)
 
-- 📝 I regularly write articles on [The Role of a Front-End Web Developer in Crafting Exceptional User Experiences n the ever-evolving digital landscape, front-end web developers play a crucial role in shaping user interactions with websites and applications. These skilled professionals bridge the gap between design and functionality, ensuring that every element on a page not only looks visually appealing but also functions seamlessly across various devices. With a deep understanding of HTML, CSS, and JavaScript, front-end developers build responsive and intuitive interfaces that cater to the needs of modern users. They optimize loading times, implement accessibility standards, and strive for pixel-perfect precision to enhance user satisfaction. Moreover, front-end developers collaborate closely with designers, back-end developers, and stakeholders to translate creative concepts into interactive realities. 
+ <h4>I am a Innocent Desginer Lover</h4>       
+    <ul>
+        <li>🐼 Front End Developer</li>  
+         <li>🐰 Web Designer</li>                                                                                            
+         <li>🐹 Instructor</li>   
+          <li>🐻‍❄️ Social Activist</li>        
+     </ul> 
 
 - 💬 Ask me about **"Front-end web developer skilled in creating engaging, responsive interfaces with a keen eye for design and user experience."**
 
 - 📫 How to reach me **mdmasudrana0783@gmail.com**
 
 - ⚡ Fun fact **I am codding Expert 👨‍💻**
+## <img  alt="gif" src="https://github.com/muhammadmasud1/muhammadmasud1/blob/main/wifi-gol.gif" width="50" height="50" /> Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/xysrafi/) [![Facebook](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdmasudrana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.pinterest.com/mdmasudrana0783/) [![Pinterest](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://www.youtube.com/@programmeshikbo6495) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@programmeshikbo6495) 
 
+[![](https://visitcount.itsvg.in/api?id=jonycmtt&icon=0&color=6)](https://visitcount.itsvg.in)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/frontenddevbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frontenddevbd" height="30" width="40" /></a>
