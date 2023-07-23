@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://persona-website01.netlify.app/](https://persona-website01.netlify.app/)
 
- <h4>I am a Innocent Desginer Lover</h4>       
+ <h4>I am a Innocent Designer Lover</h4>       
     <ul>
         <li>🐼 Front End Developer</li>  
          <li>🐰 Web Designer</li>                                                                                            
